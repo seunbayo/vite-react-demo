@@ -4,7 +4,11 @@ function App() {
   return (
     <div>
       <div
-        style = {{ display: "flex", justifyContent: "center", marginTop: "20px" }}
+        // style={{
+          // display: "flex",
+          // justifyContent: "space-around",
+          // marginTop: "20px",
+        // }}
       >
         <ConnectButton />
       </div>
